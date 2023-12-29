@@ -8,14 +8,14 @@ I've  worked on designing the system workflow and defining its use cases in deta
 - [Database Design](#database-design-for-the-system)
 - [Manage Time Use Case Details](#manage-time-use-case)
    - [Request State Diagram](#request-state-diagram)
-   - [Manage Time Flow Diagram](#Manage-Time-flow-diagrams)
-   - [Manage Time Sequence Diagram ](#Manage-Time-sequence-diagram)
+   - [Manage Time Flow Diagram](#Manage-Time-flow-diagram)
+   - [Manage Time Sequence Diagram](#Manage-Time-sequence-diagram)
    - [Manage Time Pseudo Code](#Manage-Time-psuedo-code)
 - [Cancel Request Use Case Details](#Cancel-request-use-case)
-   - [Cancel Request Flow Diagrams](#Cancel-request-flow-diagrams)
+   - [Cancel Request Flow Diagram](#Cancel-request-flow-diagram)
    - [Cancel Request Sequence Diagram](#Cancel-request-sequence-diagram)
 - [Edit Request Use Case Details](#Edit-request-use-case)
-   - [Edit Request Flow Diagrams](#Edit-request-flow-diagrams)
+   - [Edit Request Flow Diagram](#Edit-request-flow-diagram)
    - [Edit Request Sequence Diagram](#Edit-request-sequence-diagram)
 
 
@@ -57,7 +57,11 @@ policies
 - System Admin
 
 # Use Cases
--  Manage Time [create new Request, Edit pending request, withdraw request, cancel Approved Request]
+-  Manage Time
+   - Create Request
+   - Cancel Request
+   - Edit Request (Edit or Withdraw)
+         
   
   
 ## Database Design
@@ -84,13 +88,13 @@ policies
 
 # Cancel Request Use Case Details
 
-  ## Cancel Request Flow Diagrams
+  ## Cancel Request Flow Diagram
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/e403260d-4554-44da-bd13-28c73def018c)
   ## Cancel Request Sequence Diagram
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/efc0299e-794e-4fea-9f8d-ec8880a2e7f7)
 
 # Edit Request Use Case Details
-  ##Edit Request Flow Diagrams
+  ## Edit Request Flow Diagram
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/1634511f-d61b-4842-bbec-c99fca196748)
 
  ## Edit Request Sequence Diagram
