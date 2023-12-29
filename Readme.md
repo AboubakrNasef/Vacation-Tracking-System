@@ -19,7 +19,7 @@ I've  worked on designing the system workflow and defining its use cases in deta
    - [Edit Request Sequence Diagram](#Edit-request-sequence-diagram)
 
 
-## System features
+# System features
 **Vision:**
 A Vacation Tracking System (VTS) will provide individual employees with the
 capability to manage their own vacation time, sick leave, and personal time off,
@@ -50,13 +50,13 @@ policies
 - Interface with HR department legacy systems for employee information and changes.
 - Provide a web service interface for other internal systems to query vacation request summaries.
 
-## List of Actors
+# List of Actors
 - Employee
 - Manager 
 - HR Clerk 
 - System Admin
 
-### Use Cases
+# Use Cases
 -  Manage Time [create new Request, Edit pending request, withdraw request, cancel Approved Request]
   
   
@@ -64,7 +64,7 @@ policies
 ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/c5c256e7-0701-485a-a632-9a50538d4d2c)
 
 
-## Manage Time Use Case Details
+# Manage Time Use Case Details
   ## Request State Diagram
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/fa1bfdc6-c286-44d7-8140-00b809bb0ca2)
 
@@ -72,24 +72,24 @@ policies
 ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/0c93e123-eca1-487b-9381-995c45b9d4ba)
 
 
-## Manage Time Sequence Diagram 
+   ## Manage Time Sequence Diagram 
 ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/53f8a727-d608-4ed2-8013-54e2cd7dea16)
 
-## Manage Time Pseudo Code
+   ## Manage Time Pseudo Code
 ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/77a59158-e26a-45f1-b901-2351edb20288)
 
 ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/fd50016d-2a6c-4d1c-9840-ca6b7795e4e2)
 
 
 
-## Cancel Request Use Case Details
+# Cancel Request Use Case Details
 
   ## Cancel Request Flow Diagrams
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/e403260d-4554-44da-bd13-28c73def018c)
   ## Cancel Request Sequence Diagram
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/efc0299e-794e-4fea-9f8d-ec8880a2e7f7)
 
-## Edit Request Use Case Details
+# Edit Request Use Case Details
   ##Edit Request Flow Diagrams
   ![image](https://github.com/AboubakrNasef/Vacation-Tracking-System/assets/105270767/1634511f-d61b-4842-bbec-c99fca196748)
 
