@@ -1,6 +1,6 @@
 # Vacation Tracking System
 ### The Vacation Sysytem Idea is presented in the [Object Oriented Analysis And Design textbook, 3rd edition]
-I've  worked on designing the system workflow and defining its use cases in detail including Flow diagrams, State diagrams, and ERD diagrams.
+
 ## Index
 - [System Features](#system-features)
 - [List of Actors](#Actors)
